@@ -1,0 +1,33 @@
+form{
+    border: solid 1px white;
+    width: 400px;
+margin-top: 50px;
+padding-left: 10px;
+}
+body{
+    background-image: url(choc.jpj.avif);
+    background-repeat: no-repeat;
+    background-size: 1100px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 34px;
+}
+label{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+input{
+    width: 250px;
+    height: 30px;
+    font-size: 25px;
+}
+button{
+    border-radius: 20px;
+}
+p{
+    color: aqua;
+    font-size: 20px;
+}
